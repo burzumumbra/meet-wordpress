@@ -1,0 +1,19 @@
+{
+  "name": "gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gallery": "parcel  ./index.js -d ./public/",
+    "gallery:build": "parcel build ./index.js -o app.min.js -d ./dist/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-images": "^0.5.19",
+    "react-photo-gallery": "^6.3.2"
+  }
+}
