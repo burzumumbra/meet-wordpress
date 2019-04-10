@@ -1,14 +1,13 @@
 <?php
 add_action( 'wp_enqueue_scripts', 'react_apps_enqueue' );
-/** Enqueue Reglamento React App
- * React App Reglamento
+/** Enqueue Apps
  */
 function react_apps_enqueue() {
 	if ( is_page( 'Emoji' ) ) {
         wp_enqueue_script( 
             'emoji_react',
             get_stylesheet_directory_uri() . '/react-apps/emoji/public/index.js',
-            array ( '' ), '1.0.0',
+            array (  ), '1.0.0',
              true
         );
     }
@@ -16,7 +15,7 @@ function react_apps_enqueue() {
         wp_enqueue_script( 
             'gallery',
             get_stylesheet_directory_uri() . '/react-apps/gallery/public/index.js',
-            array ( '' ), '1.0.0',
+            array (  ), '1.0.0',
              true
         );
         wp_register_style(
@@ -28,5 +27,3 @@ function react_apps_enqueue() {
 		);
 	}
 }
-
-wp_enqueue_script( 'gallery-react', get_stylesheet_directory_uri() . '/react-apps/gallery/public/index.js', array ( '' ), '1.0.0', true);
