@@ -11,7 +11,7 @@
 
 - **React es...**
 - Como usa WordPress a React
-- Razon por la que WordPress esta utilziando React
+- Razon por la que WordPress esta utilizando React
 - Ejemplos
 - Como hacerlo de manera sencilla
 ##### Child theme usado [github.com/burzumumbra/meet-wordpress](http://github.com/burzumumbra/meet-wordpress)
