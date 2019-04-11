@@ -33,7 +33,7 @@
 
 ---
 
-## Razon por la que WordPress esta utilziando React
+## Razon por la que WordPress esta utilizando React
 
 # ![fit 180%](images/el-futuro-es-hoy.jpg)
 
