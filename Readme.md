@@ -91,7 +91,7 @@
 
 ---
 
-# Configuracion: Enqueue funtion.php
+# Configuracion: Enqueue function.php
 # ![100%](images/function.png)
 
 ---
