@@ -111,21 +111,21 @@
 
 ---
 
-# Correr nuestra
+# Correr nuestra app
 # ![200%](images/Kapture-run.gif)
 
 ---
 
-# Correr nuestra: Archivos generados
+# Correr nuestra app: Archivos generados
 # ![200%](images/public.png)
 
 ---
 
-# Correr nuestra: Produccion
+# Correr nuestra app: Produccion
 # ![200%](images/Kapture-build.gif)
 
 ---
-# Correr nuestra: Archivos generados
+# Correr nuestra app: Archivos generados
 # ![200%](images/build.png)
 
 ---
