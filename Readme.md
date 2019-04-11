@@ -97,7 +97,7 @@
 ---
 
 # Configuracion: package.json `npm init -y`
-# ![200%](images/kapture-npm-init.gif)
+# ![200%](images/Kapture-npm-init.gif)
 
 ---
 
